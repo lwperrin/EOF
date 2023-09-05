@@ -1,0 +1,222 @@
+
+
+
+
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221109 R05 Pc_1p0 Ac_5p0 P_K238A A_MP446_P1_Cy5 S_190KCl1M T_25 V_160 f23_CH003_004.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221109 R05 Pc_1p0 Ac_5p0 P_K238A A_MP446_P1_Cy5 S_190KCl1M T_25 V_130 f19_CH003_004.abf
+
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R14 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f184_CH002_001.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R14 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f85_CH002_001.abf
+
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R14 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f84_CH002_000.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R14 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f183_CH002_000.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R14 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f185_CH002_002.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R14 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f86_CH002_002.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R14 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f186_CH002_003.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R14 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f87_CH002_003.abf
+
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221110 R10 Pc_1p0 Ac_5p0 P_K238A A_MP446_P1_Cy5 S_190KCl1M T_25 V_160 f46_CH003_002.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221110 R10 Pc_1p0 Ac_5p0 P_K238A A_MP446_P1_Cy5 S_190KCl1M T_25 V_130 f39_CH003_002.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221110 R10 Pc_1p0 Ac_5p0 P_K238A A_MP446_P1_Cy5 S_190KCl1M T_25 V_160 f48_CH003_006.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221110 R10 Pc_1p0 Ac_5p0 P_K238A A_MP446_P1_Cy5 S_190KCl1M T_25 V_130 f41_CH003_006.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221110 R10 Pc_1p0 Ac_5p0 P_K238A A_MP446_P1_Cy5 S_190KCl1M T_25 V_160 f50_CH003_009.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221110 R10 Pc_1p0 Ac_5p0 P_K238A A_MP446_P1_Cy5 S_190KCl1M T_25 V_130 f43_CH003_009.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221110 R10 Pc_1p0 Ac_5p0 P_K238A A_MP446_P1_Cy5 S_190KCl1M T_25 V_160 f52_CH003_012.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221110 R10 Pc_1p0 Ac_5p0 P_K238A A_MP446_P1_Cy5 S_190KCl1M T_25 V_130 f45_CH003_012.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221110 R21 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_160 f68_CH002_009.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221110 R21 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f63_CH002_009.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f102_CH004_000.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f69_CH004_000.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f103_CH004_001.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f70_CH004_001.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f104_CH004_002.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f71_CH004_002.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f105_CH004_003.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f72_CH004_003.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f107_CH004_000.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f69_CH004_000.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f108_CH004_001.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f70_CH004_001.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f109_CH004_002.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f71_CH004_002.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f110_CH004_003.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f72_CH004_003.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_160 f112_CH004_000.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f69_CH004_000.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_160 f113_CH004_001.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f70_CH004_001.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_160 f114_CH004_002.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f71_CH004_002.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_160 f115_CH004_003.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f72_CH004_003.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221117 R10 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f77_CH003_002.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221117 R10 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f76_CH003_002.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R15 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f187_CH002_000.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R15 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f88_CH002_000.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R23 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f93_CH002_001.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R23 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f91_CH002_001.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R23 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f189_CH002_000.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R23 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f90_CH002_000.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R23 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f190_CH002_001.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R23 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f91_CH002_001.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R23 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f191_CH002_001.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R23 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f91_CH002_001.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221111 R30 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_160 f99_CH003_002.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221111 R30 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f98_CH003_002.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221028 R07 Pc_0p3 Ac_5p0 P_K238A A_P1 S_190KCl1M T_25 V_130 f142_CH002_006.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221028 R07 Pc_0p3 Ac_5p0 P_K238A A_P1 S_190KCl1M T_25 V_100 f132_CH002_006.abf
+
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f106_CH004_004.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f73_CH004_004.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f111_CH004_004.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f73_CH004_004.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_160 f116_CH004_004.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221114 R05 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_130 f73_CH004_004.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R15 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f188_CH002_001.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R15 Pc_1p0 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_100 f89_CH002_001.abf
+
+
+Duplicate found:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R23 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_160 f192_CH002_002.abf 
+ and:
+ /data2/smayer/tsp_update/raw_data/Batch1/221116 R23 Pc_0p5 Ac_5p0 P_K238A A_MP446_P2_Cy5 S_190KCl1M T_25 V_160 f94_CH002_002.abf
+
+
+
+
